@@ -21,6 +21,7 @@
     "archive": "封存",
     "archived": "已封存",
     "attachments": "附件",
+    "auto-expand": "自動展開",
     "avatar": "頭像",
     "basic": "基礎",
     "beta": "測試版",
@@ -436,5 +437,13 @@
     "rename-success": "重新命名標籤成功",
     "rename-tag": "重新命名標籤",
     "rename-tip": "您的標籤名稱將會被更新"
+  },
+  "tooltip": {
+    "link-memo": "連結備忘錄",
+    "markdown-menu": "Markdown",
+    "select-location": "位置",
+    "select-visibility": "瀏覽權限",
+    "tags": "標籤",
+    "upload-attachment": "上傳附件"
   }
 }
