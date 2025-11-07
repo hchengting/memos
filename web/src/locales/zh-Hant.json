@@ -18,6 +18,7 @@
     "about": "關於",
     "add": "新增",
     "admin": "管理",
+    "all": "全部",
     "archive": "封存",
     "archived": "已封存",
     "attachments": "附件",
@@ -31,6 +32,7 @@
     "close": "關閉",
     "collapse": "摺疊",
     "confirm": "確認",
+    "copy": "複製",
     "create": "建立",
     "created-at": "建立於",
     "database": "資料庫",
@@ -124,8 +126,10 @@
   },
   "inbox": {
     "memo-comment": "{{user}} 對您的 {{memo}} 發表了評論。",
-    "version-update": "新版本 {{version}} 現已推出！",
-    "failed-to-load": "載入失敗"
+    "failed-to-load": "載入失敗",
+    "unread": "未讀",
+    "no-unread": "沒有未讀通知",
+    "no-archived": "沒有已封存的通知"
   },
   "markdown": {
     "checkbox": "核取方塊",
@@ -141,6 +145,7 @@
       "self": "評論",
       "write-a-comment": "寫下評論"
     },
+    "copy-content": "複製內容",
     "copy-link": "複製連結",
     "count-memos-in-date": "{{date}} 的 {{count}} 條備忘錄",
     "delete-confirm": "您確定要刪除此備忘錄嗎？",
@@ -188,7 +193,8 @@
     "password-not-match": "密碼不一致。",
     "remove-completed-task-list-items-successfully": "移除成功",
     "restored-successfully": "還原成功",
-    "succeed-copy-link": "複製連結到剪貼簿成功。",
+    "succeed-copy-content": "複製內容成功。",
+    "succeed-copy-link": "複製連結成功。",
     "update-succeed": "更新成功",
     "user-not-found": "未找到該使用者"
   },
